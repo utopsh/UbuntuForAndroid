@@ -10,4 +10,5 @@ UbuntuForAndroid 是运行在Android上的完整Linux 系统， 无需设备root
 
 
 Scan code to download
+
 ![Image text](https://github.com/utopsh/UbuntuForAndroid/raw/master/qrcode.png)
